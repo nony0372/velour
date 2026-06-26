@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.env*.local
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+
+# Внутренние материалы — не публикуем
+VELOUR_Competitor_Report.pdf
+/logo.png
+
+# Локальная конфигурация превью Claude Code
+.claude/
